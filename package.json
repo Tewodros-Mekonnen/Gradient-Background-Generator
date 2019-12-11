@@ -1,0 +1,19 @@
+{
+  "name": "gradient-background-generator",
+  "version": "1.0.0",
+  "description": "app to create gradient background",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tewodros-Mekonnen/Gradient-Background-Generator.git"
+  },
+  "author": "Tewodros Mekonnen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tewodros-Mekonnen/Gradient-Background-Generator/issues"
+  },
+  "homepage": "https://github.com/Tewodros-Mekonnen/Gradient-Background-Generator#readme"
+}
